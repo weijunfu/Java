@@ -1,2 +1,5 @@
 # idea files
 .idea/**
+
+# Java class
+**/target/**
